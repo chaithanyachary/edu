@@ -12,7 +12,7 @@
 	<artifactId>education-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>education-project</name>
-	<description>Project of Organisation</description>
+	<description>Project of education</description>
 
 	<properties>
 		<java.version>1.8</java.version>
